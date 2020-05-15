@@ -71,7 +71,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected void initToolBar() {
-        tvThemTitle.setText("首页标题");
+        tvThemTitle.setText("首页标题dfsfsdfs");
     }
 
     @Override
